@@ -1,0 +1,46 @@
+body{
+    background-image: url('https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg');
+    background-size: cover;
+}
+#image_2{
+    width:30% ;
+    height: auto;
+}
+#para_2{
+    font-style: oblique;
+    color: blue;
+
+}
+#para_3{
+    font-size: larger;
+    color: aquamarine;
+    font-style: italic;
+}
+#para_4{
+    font-vari;
+    color: blueviolet;
+}
+.grp1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px dotted rgb(42, 65, 165) ;
+    
+}
+.fruits{
+    list-style-type: georgian;
+    
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 5% 30% 5% 40%;
+}
+table tr{
+    border-bottom: 2px solid black;
+}
+table td{
+    border-right: 2px solid red ;
+    padding: 7px 10px 7px 10px;
+
+}
+
